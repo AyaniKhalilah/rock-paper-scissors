@@ -1,0 +1,33 @@
+/* Result Section */
+#result {
+    margin-top: 30px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #434242;
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #333;
+    border-radius: 6px;
+    /* display: inline-block; */
+    width: 70%;
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+#scoreboard {
+    margin: 20px 0;
+    font-size: 1.2rem;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#reset {
+    background-color: #4650bcb7;
+    color: white;
+}
